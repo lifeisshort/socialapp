@@ -1,0 +1,27 @@
+.post-list-item{
+    padding: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: gray;
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.post-list-item .post-info
+{
+    display: flex; 
+}
+
+.post-list-item .post-icon img
+{
+    width: 40px; 
+}
+
+.post-list-item .post-info .post-info-item
+{
+    margin-left: 10px;
+}
+
+ 
+

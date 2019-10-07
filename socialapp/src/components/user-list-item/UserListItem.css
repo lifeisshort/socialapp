@@ -1,0 +1,27 @@
+.user-list-item{
+    padding: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: gray;
+    margin: 4px;
+    display: flex;
+    align-items: center;
+}
+
+.user-list-item .user-info
+{
+    display: flex; 
+}
+
+.user-list-item .user-icon img
+{
+    width: 40px; 
+}
+
+.user-list-item .user-info .user-info-item
+{
+    margin-left: 10px;
+}
+
+ 
+
